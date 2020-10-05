@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Divyansh chauhan Resume</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"  media="print">
+        </head>
+<body>
+<header class="homeheader">
+    <div class="top">
+       <nav>
+           <a href="#" class="current">Home</a>
+           <a href="about.html"class="current" >About</a>
+          
+           <a href="resume.html"class="current">Resume</a>
+           <a href="work.html"class="current">Work</a>
+           <a href="testimonial.html"class="current">TESTIMONIALS </a>
+           <a href="contact.html"class="current">Contact</a>
+       </nav>
+       <div class="name">
+           <h1 id="name">I'm Divyansh Chauhan.</h1>
+       </div>
+       <div class="caption">
+           <p id="caption">I'm a Manila based <FONT color="white">graphic designer, illustrator</FONT> and<FONT color="white"> webdesigner</FONT> creating awesome and effective visual identities for companies of all sizes around the 
+            globe. Let's start  <FONT color="white">clicking</FONT> and learn more 
+            <FONT color="white">about me</FONT>.</p>
+            <hr>
+       </div>
+      <div class="socialmedia">
+          <table class="social">
+              <tr>
+            <td><a href="https://www.facebook.com/divyansh.chauhan.568089/" class="fa fa-facebook" style="font-size: 30px;"></a></td>
+            <td><a href="#" class="fa fa-twitter" style="font-size: 30px;"></i></a></td>
+            <td><a href="mailto:chauhan.divyansh03@gmail.com"><i class="fa fa-google-plus" style="font-size: 30px;"></i></a></td>
+            <td><a href="https://www.linkedin.com/in/divyansh-chauhan-142240196/"><i class="fa fa-linkedin" style="font-size: 30px;"></i></a></td>
+            <td><a href="https://www.instagram.com/chauhan.divyansh03/?hl=en"><i class="fa fa-instagram" style="font-size: 30px;"></i></a></td>
+            <td><a href="#"><i class="fa fa-dribbble" style="font-size: 30px;"></i></a></td>
+            <td><a href="#"><i class="fa fa-skype" style="font-size: 30px;"></i></a></td>
+         
+        </tr>
+        </table>
+        </div>
+        
+       </div>
+</header>
+</body>
+    </html>
